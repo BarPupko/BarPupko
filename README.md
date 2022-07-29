@@ -28,4 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barpupko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 **Contact**
+
 You can contact me on <a href="https://www.linkedin.com/in/barpupko/">linkedin<a>. I'm always available for questions and suggestions and happy to assist.
