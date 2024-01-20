@@ -1,7 +1,6 @@
 ### Hi, I'm Bar 👋
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=barpupko&left_color=blue&right_color=grey)
-
+![](https://komarev.com/ghpvc/?username=barpupko)
 **I'am working at <a href="https://acsmotioncontrol.com/">AcsMotionControl</a> as Automation Automation & Validation Engineer**
 
 **What am I up to ?**
