@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on creating an extenston for <a href="https://acsmotioncontrol.com/capabilities/acspl-programming/">ACSPL+ Language</a>.
 - 🌱 I’m currently learning DEVOPS specially Docker & Ansible Technology over <a href="https://www.linkedin.com/learning/">LinkedIn Learning.</a>
 - ⚡ Fun fact is that Software developers spend more time learning as compared to others.
+- 💻 Currently working and learning how to manage Mac OS Projects
 
 **Bio**
 
