@@ -6,7 +6,7 @@ I'm an **Automation & Validation Engineer at [AcsMotionControl](https://acsmotio
 
 **What am I up to?**
 - 🔭 I’m currently working on creating an extension for [ACSPL+ Language](https://acsmotioncontrol.com/capabilities/acspl-programming/).
-- 🌱 I’m currently learning DevOps, specifically Docker & Ansible, through [LinkedIn Learning](https://www.linkedin.com/learning/).
+- 🌱 I’m currently learning AI Technlogy & CyberSecurity, through [Udemy](https://www.udemy.com/).
 - ⚡ Fun fact: Software developers spend more time learning as compared to others.
 - 💻 Actively working and learning how to manage macOS Projects.
 
