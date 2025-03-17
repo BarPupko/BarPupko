@@ -2,9 +2,9 @@
 ---
 ![](https://komarev.com/ghpvc/?username=barpupko)
 #### 📖 Partical Projects:
-- 💌 What to send alot of whatsapp messages?   [Whatsapp Messages Generator](https://barpupko.github.io/Message-Sender/).
+- 💌 Want to send alot of whatsapp messages?   [Whatsapp Messages Generator](https://barpupko.github.io/Message-Sender/).
 - 💵📩 Calculate present for a wedding? [Wedding Present](https://barpupko.github.io/CalculatorWedding/).
-- 
+  
 
 
 I'm an **Automation & Validation Engineer at [AcsMotionControl](https://acsmotioncontrol.com/)**, specializing in developing innovative automation solutions and ensuring rigorous quality standards.
