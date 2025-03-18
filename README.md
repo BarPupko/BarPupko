@@ -40,5 +40,7 @@ A seasoned engineer with a passion for integrating cutting-edge automation syste
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barpupko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 **Contact**
+## 🔗 Connect with Me
+- **LinkedIn**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/barpupko/). I'm always open to questions, suggestions, and opportunities to collaborate!
+- **Email**: barpupco@gmail.com
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/barpupko/). I'm always open to questions, suggestions, and opportunities to collaborate!
