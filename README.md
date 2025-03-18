@@ -38,6 +38,7 @@ A seasoned engineer with a passion for integrating cutting-edge automation syste
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barpupko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barpupko&layout=compact&theme=radical)
 
 **Contact**
 ## 🔗 Connect with Me
