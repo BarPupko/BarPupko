@@ -35,6 +35,8 @@ A seasoned engineer with a passion for integrating cutting-edge automation syste
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+
 </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barpupko&layout=compact&theme=radical)
