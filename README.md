@@ -11,7 +11,7 @@
 I'm an **Automation & Validation Engineer at [AcsMotionControl](https://acsmotioncontrol.com/)**, specializing in developing innovative automation solutions and ensuring rigorous quality standards.
 
 **What am I up to?**
-- 🔭 I’m currently working on creating an extension for [ACSPL+ Language](https://acsmotioncontrol.com/capabilities/acspl-programming/). *with more then 500* Downloads !
+- 🔭 I’m currently working on creating an extension for [ACSPL+ Language]([https://acsmotioncontrol.com/capabilities/acspl-programming/](https://marketplace.visualstudio.com/items?itemName=ACSPL.acsplext)). *with more then 500* Downloads !
 - 🌱 I’m currently learning AI Technlogy & CyberSecurity, through [Udemy](https://www.udemy.com/).
 - ⚡ Fun fact: Software developers spend more time learning as compared to others.
 - 💻 Actively working and learning how to manage macOS Projects.
