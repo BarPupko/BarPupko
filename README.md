@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=barpupko&color=5CFFB3&style=flat-square&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-5CFFB3?style=flat-square&logoColor=black"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Location-Karmiel%2C%20Israel-1a2e24?style=flat-square&labelColor=0a0f0d&color=1a2e24"/>
 </p>
 
