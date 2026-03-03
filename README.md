@@ -5,14 +5,12 @@
   <img src="https://img.shields.io/badge/Location-Karmiel%2C%20Israel-1a2e24?style=flat-square&labelColor=0a0f0d&color=1a2e24"/>
 </p>
 
----
 
 ### 👋 Hi, I'm Bar
 
 I'm an **Automation & AI Engineer** at [ACS Motion Control](https://acsmotioncontrol.com/), building intelligent systems that bridge **software, hardware, and machine learning**.  
 Technion – Israel Institute of Technology · University of Haifa · 3+ years experience.
 
----
 
 ### ⚡ What I'm up to
 
@@ -23,7 +21,6 @@ Technion – Israel Institute of Technology · University of Haifa · 3+ years e
 - 💌 Want to send bulk WhatsApp messages? → [Whatsapp Messages Generator](https://barpupko.github.io/Message-Sender/)
 - 💵 Calculate a wedding present? → [Wedding Present Calculator](https://barpupko.github.io/CalculatorWedding/)
 
----
 
 ### 🛠️ Languages & Tools
 
