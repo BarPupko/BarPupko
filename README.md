@@ -49,19 +49,7 @@ Technion – Israel Institute of Technology · University of Haifa · 3+ years e
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" width="45" height="45"/>
 </div>
 
----
 
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barpupko&show_icons=true&bg_color=0a0f0d&title_color=5CFFB3&icon_color=5CFFB3&text_color=888888&border_color=1a2e24" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barpupko&layout=compact&bg_color=0a0f0d&title_color=5CFFB3&text_color=888888&border_color=1a2e24" height="165"/>
-</p>
-
----
 
 ### 🔗 Connect
 
