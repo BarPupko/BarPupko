@@ -57,8 +57,9 @@ Technion – Israel Institute of Technology · University of Haifa · 3+ years e
     <img src="https://img.shields.io/badge/Email-barpupco%40gmail.com-5CFFB3?style=for-the-badge&logo=gmail&logoColor=0a0f0d"/>
   </a>
   &nbsp;
-  <a href="https://portfolio-lake-seven-18.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Site-5CFFB3?style=for-the-badge&logo=vercel&logoColor=0a0f0d"/>
-  </a>
+
 </p>
+  <!-- <a href="https://portfolio-lake-seven-18.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-5CFFB3?style=for-the-badge&logo=vercel&logoColor=0a0f0d"/>
+  </a> -->
 
