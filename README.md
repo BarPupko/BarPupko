@@ -59,7 +59,7 @@ Technion – Israel Institute of Technology · University of Haifa · 3+ years e
   &nbsp;
 
 </p>
-  <!-- <a href="https://portfolio-lake-seven-18.vercel.app">
+   <a href="https://portfolio-lake-seven-18.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-View%20Site-5CFFB3?style=for-the-badge&logo=vercel&logoColor=0a0f0d"/>
-  </a> -->
+  </a> 
 
