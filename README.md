@@ -22,7 +22,7 @@ Technion – Israel Institute of Technology · University of Haifa · 3+ years e
 - 💵 Calculate a wedding present? → [Wedding Present Calculator](https://barpupko.github.io/CalculatorWedding/)
 
 ### 🎉 Congratilation for those who choose to work with me
-- 🚢 Ivritours Site [**Ivritours Site**](https:/www.ivritours.ca) 
+- 🚢 Ivritours Site [ Ivritours Site](https:/www.ivritours.ca/) 
 
 
 ### 🛠️ Languages & Tools
