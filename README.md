@@ -25,7 +25,7 @@ Technion – Israel Institute of Technology · University of Haifa · 3+ years e
 - 🚢 Ivritours Site [ Ivritours Site](https://www.ivritours.ca/) 
 - 🌐 [Ilya Rotman](https://ilyarotman.com/) 
 - 🏗️ [Venus 3D Engineering](https://venus3d.co.il/)
-- 💅 [Shai Nails Appointments](https://darkslategray-hedgehog-901546.hostingersite.co
+- 💅 [Shai Nails Appointments](https://darkslategray-hedgehog-901546.hostingersite.com)
 
 
 ### 🛠️ Languages & Tools
