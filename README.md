@@ -3,7 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=barpupko&color=5CFFB3&style=flat-square&label=Profile+Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Karmiel%2C%20Israel-1a2e24?style=flat-square&labelColor=0a0f0d&color=1a2e24"/>
-[![Sponsor BarPupko](https://img.shields.io/badge/Sponsor-BarPupko-ea4aaa?logo=github)](https://github.com/sponsors/BarPupko)
+
+<a href="https://github.com/sponsors/BarPupko">
+  <img src="https://img.shields.io/badge/Sponsor-BarPupko-ea4aaa?logo=github" alt="Sponsor BarPupko" />
+</a>
+
 </p>
 
 
