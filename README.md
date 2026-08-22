@@ -14,7 +14,7 @@
 ### 👋 Hi, I'm Bar
 
 I'm an **Automation & AI Engineer** at [ACS Motion Control](https://acsmotioncontrol.com/), building intelligent systems that bridge **software, hardware, and machine learning**.  
-Technion – Israel Institute of Technology · University of Haifa · 3+ years experience.
+Technion – Israel Institute of Technology · University of Haifa · 4 years experience.
 
 
 ### ⚡ What I'm up to
