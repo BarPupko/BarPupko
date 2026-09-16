@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=barpupko&color=5CFFB3&style=flat-square&label=Profile+Views"/>
   &nbsp;
@@ -10,12 +9,10 @@
 
 </p>
 
-
 ### 👋 Hi, I'm Bar
 
 I'm an **Automation & AI Engineer** at [ACS Motion Control](https://acsmotioncontrol.com/), building intelligent systems that bridge **software, hardware, and machine learning**.  
 Technion – Israel Institute of Technology · University of Haifa · 4 years experience.
-
 
 ### ⚡ What I'm up to
 
@@ -25,12 +22,19 @@ Technion – Israel Institute of Technology · University of Haifa · 4 years ex
 - 💌 Want to send bulk WhatsApp messages? → [Whatsapp Messages Generator](https://barpupko.github.io/Message-Sender/)
 - 💵 Calculate a wedding present? → [Wedding Present Calculator](https://barpupko.github.io/CalculatorWedding/)
 
-### 🎉 Congratilation for those who choose to work with me
+### 🏆 Projects I'm Most Proud Of
+
+- 🦿 [**Knee-Care**](https://github.com/BarPupko/Knee-Care)
+- 🚲 [**Beco**](https://github.com/BarPupko/BecoAPK21) - Android-based bicycle parking application built with Java and Firebase.
+- 🔌 [**ACSPL+ VS Code Extension**](https://marketplace.visualstudio.com/items?itemName=ACSPL.acsplext) - Custom language support extension with 500+ downloads.
+
+### 🎉 Congratulations to those who choose to work with me
 - 🚢 [Ivritours Site](https://www.ivritours.ca/) 
 - 🌐 [Ilya Rotman](https://ilyarotman.com/) 
 - 🏗️ [Venus 3D Engineering](https://venus3d.co.il/)
 - 💅 [Shai Nails Appointments](https://darkslategray-hedgehog-901546.hostingersite.com)
 - 🚕 [Toronto-Shuttle](https://shuttle-toronto.com/)
+
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18" alt="Microsoft"> My Visual Studio Code - Extensions
 - 🔌 Building the [**ACSPL+ VS Code Extension**](https://marketplace.visualstudio.com/items?itemName=ACSPL.acsplext) , **500+ downloads**
 - 🔌 Building the [**Claude Timeout Resume**](https://marketplace.visualstudio.com/items?itemName=BarPopko.claude-timeout-resume)
@@ -57,8 +61,6 @@ Technion – Israel Institute of Technology · University of Haifa · 4 years ex
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" width="45" height="45"/>
 </div>
 
-
-
 ### 🔗 Connect
 
 <p align="center">
@@ -70,10 +72,4 @@ Technion – Israel Institute of Technology · University of Haifa · 4 years ex
     <img src="https://img.shields.io/badge/Email-barpupco%40gmail.com-5CFFB3?style=for-the-badge&logo=gmail&logoColor=0a0f0d"/>
   </a>
   &nbsp;
-
 </p>
-<!--
-   <a href="https://portfolio-lake-seven-18.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Site-5CFFB3?style=for-the-badge&logo=vercel&logoColor=0a0f0d"/>
-  </a> 
--->
